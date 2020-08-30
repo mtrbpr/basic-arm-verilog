@@ -1,0 +1,24 @@
+$date
+	Wed Dec 18 13:18:02 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module condition_check_tb $end
+$var wire 1 ! check $end
+$var reg 4 " condState [3:0] $end
+$var reg 4 # condition [3:0] $end
+$var reg 1 $ x $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1$
+b0 #
+b100 "
+1!
+$end
+#10000
