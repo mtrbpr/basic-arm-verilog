@@ -1,2 +1,5 @@
 target*
 waves*
+*.lx2
+*.vcd
+
